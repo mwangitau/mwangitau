@@ -20,8 +20,8 @@ jobs:
     - name: Install dependencies
       run: npm install
 
-    - name: Build README
-      run: node build-readme.js
+    - name: Build
+      run: npm run build
 
     - name: Commit changes
       run: |
