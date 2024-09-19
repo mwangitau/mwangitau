@@ -17,11 +17,12 @@ const GitHubProfileReadme = () =>
   React.createElement('div', { style: styles.container }, 
     React.createElement('header', { style: styles.header }, 
       React.createElement('h1', { style: styles.name }, 'John Gitau'),
-      React.createElement('h2', { style: styles.title }, 'Software Engineer | ALX Student')
+      React.createElement('h2', { style: styles.title }, 'Developer | Data Enthusiast')
     ),
     React.createElement('section', { style: styles.section }, 
       React.createElement('h3', { style: styles.sectionTitle }, 'About Me'),
-      React.createElement('p', null, "Hello! I'm John Gitau, a passionate software engineer and ALX student. I'm dedicated to mastering both low-level and high-level programming, with a focus on C, Python, and web technologies.")
+      React.createElement('p', null, " Hi there, I'm John Mwangi! 👋
+I'm a Developer with a background in Applied Statistics and IT. I love building web applications and exploring cloud computing. Currently, I'm working and Learning some exciting projects using Flutter, HTML, CSS, and JavaScript!")
     ),
     React.createElement('section', { style: styles.section }, 
       React.createElement('h3', { style: styles.sectionTitle }, 'Featured Projects'),
